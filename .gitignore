@@ -33,3 +33,10 @@
 *.exe
 *.out
 *.app
+*.bin
+
+# Others
+*.DS_Store
+*.plist
+*.yml
+*.dSYM
